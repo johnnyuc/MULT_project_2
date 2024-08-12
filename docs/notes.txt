@@ -1,0 +1,12 @@
+na librosa na alínea 2 tirar dois elementos do inicio da librosa e do fim da nossa ou vice-versa, qual quer coisa assim
+
+
+-> O que o professor das teoricas falou:
+no ex 2.2 a ultima janela podera precisar de zeros padding
+
+o librosa tem um atraso de 3 janelas, por isso temos de descartar os 2 primeiros para dar certinho???
+
+
+Avaliação 1, coisas em falta:
+- Na normalização, aprensentar opções para o mínimo e máximo da normalização
+- Fazer uma função para save em vez de usar várias vezes
